@@ -1,0 +1,27 @@
+body {
+    background-color: lightgrey;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: darkblack;
+    padding: 15px;
+}
+
+h2 {
+    color: darkbackground;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+button {
+    background-color:pink;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+}
